@@ -298,20 +298,20 @@ footer {
  }
 
 
- .bottom-footer div{
+ .bottom-footer ul{
     display: block;
     color: rgb(202, 192, 192);
     
     
  }
 
- .bottom-footer div li{
+ .bottom-footer ul li{
    list-style-type: none;
    margin-top: 8px;
    color: black;
  }
 
- .bottom-footer div li:nth-child(1) {
+ .bottom-footer ul li:nth-child(1) {
     margin-top: 30px;
  }
 
